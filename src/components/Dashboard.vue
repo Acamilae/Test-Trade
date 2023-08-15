@@ -17,7 +17,7 @@
         </p>
       </div>
       <div
-        class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8 flex justify-between items-center"
+        class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8 flex flex-col md:flex-row md:justify-between items-center"
       >
         <div>
           <p class="font-light text-xl mb-8">Free Download for Tradeview Users</p>
