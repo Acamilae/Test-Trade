@@ -9,7 +9,7 @@
     </div>
     <div class="flex-grow w-full sm:w-1/2 px-4 pt-32 text-center">
       <img src="../assets/logo-trade-view.png" class="w-auto h-28 mx-auto" />
-      <div class="px-36 pt-24 pb-36">
+      <div class="md:px-36 pt-24 pb-36">
         <hr class="border-white" />
         <p class="mt-2 text-2xl font-light">
           Tradeview’s <b>CommuniTraders</b> software lets our partners provide
